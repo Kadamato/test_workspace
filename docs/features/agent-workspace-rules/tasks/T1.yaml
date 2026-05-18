@@ -1,7 +1,7 @@
 id: T1
 title: Replace setupSkillSymlinks with setupGlobalSkills; add copyWorkspaceClaude
 repo: workflow
-status: in_progress
+status: todo
 depends_on: []
 blocked_reason: null
 blocked_context: null
