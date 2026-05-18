@@ -1,7 +1,7 @@
 id: T1
 title: Port interfaces + types + fake adapters
 repo: workflow
-status: done
+status: in_progress
 depends_on: []
 blocked_reason: null
 branch: feature/runtime-portable-architecture-T1
@@ -29,7 +29,8 @@ log:
     by: tiendv.52@gmail.com
     at: 2026-05-04T03:07:16.999Z
     rag_context_injected: true
-    rag_summary: "Retrieved 5 chunks: runtime/orchestrator/src/adapter/adapter.ts,
+    rag_summary:
+      "Retrieved 5 chunks: runtime/orchestrator/src/adapter/adapter.ts,
       docs/features/runtime-portable-architecture/technical-design.md,
       runtime/abi/src/index.ts"
     rag_query: Port interfaces + types + fake adapters runtime-portable-architecture

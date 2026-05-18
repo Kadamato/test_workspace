@@ -1,7 +1,7 @@
 feature_id: runtime-portable-architecture
 title: Portable runtime architecture — extract today's bundled orchestrator/executor into ports, adapters, and profiles
 
-feature_status: in_tdd
+feature_status: todo
 current_stage: implementation
 next_action: >-
   Tasks approved. Wave 1 task T1 is now ready and may be claimed by
