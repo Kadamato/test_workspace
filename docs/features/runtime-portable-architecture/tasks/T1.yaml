@@ -1,7 +1,7 @@
 id: T1
 title: Port interfaces + types + fake adapters
 repo: workflow
-status: in_progress
+status: in_tdd
 depends_on: []
 blocked_reason: null
 branch: feature/runtime-portable-architecture-T1
