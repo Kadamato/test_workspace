@@ -7,7 +7,7 @@ next_action: Review and approve product spec, then proceed to technical design.
 
 stages:
   product_spec:
-    review_status: draft
+    review_status: done
     reviewed_by: null
     reviewed_at: null
     review_comment: null
