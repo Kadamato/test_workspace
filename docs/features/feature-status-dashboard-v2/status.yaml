@@ -1,7 +1,7 @@
 feature_id: feature-status-dashboard-v2
 title: Feature Status Dashboard v2
 
-feature_status: ready_for_implementation
+feature_status: in_tdd
 current_stage: tasks
 next_action: Teams execute tasks in their implementation repos. T1 is ready to claim.
 
