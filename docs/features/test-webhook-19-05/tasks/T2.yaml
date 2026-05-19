@@ -1,7 +1,7 @@
 id: T2
 title: Prepare management-repo trigger artifacts
 repo: management-repo
-status: todo
+status: ready
 depends_on:
   - T1
 blocked_reason: null
