@@ -2,8 +2,8 @@ feature_id: test-webhook-19-05
 title: Test Webhook 19-05
 
 feature_status: in_progress
-current_stage: product_spec
-next_action: Review and approve product spec, then proceed to technical design.
+current_stage: tasks
+next_action: Review and approve task breakdown before implementation.
 
 stages:
   product_spec:
@@ -36,6 +36,10 @@ history:
     by: unknown@local
     at: 2026-05-19T08:50:48+0700
     note: "Feature initialized from canonical feature templates."
+  - action: task_breakdown_created
+    by: unknown@local
+    at: 2026-05-19T08:58:00+0700
+    note: "Draft task breakdown created for test webhook functionality."
 
 revalidation:
   product_spec_required: false
