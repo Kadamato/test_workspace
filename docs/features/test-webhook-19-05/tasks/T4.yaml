@@ -1,7 +1,7 @@
 id: T4
 title: Record result and handoff evidence
 repo: management-repo
-status: in_progress
+status: ready
 depends_on:
   - T3
 blocked_reason: null
