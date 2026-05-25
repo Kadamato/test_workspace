@@ -1,7 +1,7 @@
 id: T1
 title: Define webhook smoke-test contract
 repo: management-repo
-status: ready
+status: in_review
 depends_on: []
 blocked_reason: null
 branch: feature/test-webhook-19-05-T1
