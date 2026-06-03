@@ -1,6 +1,6 @@
 # Product Specification
 
-## Feature
+## Feature1
 - Feature ID: `feature-status-dashboard-v2`
 - Title: `Feature Status Dashboard v2 — Web UI for Workspace Management`
 

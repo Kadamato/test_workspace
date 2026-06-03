@@ -1,5 +1,5 @@
 workspace_id: workspace
-name: workspace
+name: test_workspace
 overview_doc: docs/overview.md
 
 approval:

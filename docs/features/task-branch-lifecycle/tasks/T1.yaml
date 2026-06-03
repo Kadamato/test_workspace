@@ -1,7 +1,7 @@
 id: T1
 title: Schema foundations — paths.ts taskBranchName + types/task.ts BlockedContext
 repo: workflow
-status: done
+status: ready
 depends_on: []
 blocked_reason: null
 blocked_context: null
